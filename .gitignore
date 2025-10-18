@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data and large files
+data/
+
+*.ckpt
+*.pth
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
