@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]()
 [![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)]()
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pranta-Chy/devnagari-symbol-detect/blob/main/notebooks/devnagari_scriptpred_vit_final.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pranta-Chy/devnagari-symbol-detect/blob/main/notebooks/devnagari_symbol_pred_vit.ipynb)
 [![Model Accuracy](https://img.shields.io/badge/Accuracy-96.7%25-success.svg)]()
 [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen.svg)](https://devnagari-character-predictor-xwy93napvjb8m6b8wdlcsz.streamlit.app/)
 
