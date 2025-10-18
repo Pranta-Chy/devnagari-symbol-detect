@@ -112,7 +112,7 @@ or in Colab using the badge above.
 
 
 
-(You can add your own screenshots or examples in the assets/ folder and update this table.)
+
 
 📦 Requirements
 tensorflow==2.12.0
